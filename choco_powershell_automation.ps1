@@ -1,4 +1,4 @@
-﻿$Packages = '7zip', 'battle.net', 'ditto', 'Firefox', 'keepass', 'keepass-rpc', 'mobaxterm', 'msiafterburner', 'seafile-client', 'signal', 'steam', 'WhatsApp' # List of packages that will be installed
+﻿$Packages = 'libreoffice', '7zip', 'battle.net', 'ditto', 'Firefox', 'keepass', 'keepass-rpc', 'mobaxterm', 'msiafterburner', 'seafile-client', 'signal', 'steam', 'WhatsApp' # List of packages that will be installed
 
 Function InstallPackages { # Function for installing choco packages
 
